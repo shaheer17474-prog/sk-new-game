@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sleek Diagonal Takeoff Airplane/Rocket in Aviation Red -->
+    <path
+        android:fillColor="#E21237"
+        android:pathData="M75,25 L55,45 L32,40 L26,46 L48,54 L36,66 L22,64 L18,68 L30,73 L35,85 L39,81 L37,67 L49,55 L57,77 L63,71 L58,48 L78,28 C82,24 82,18 78,14 C74,10 68,10 64,14 Z" />
+</vector>

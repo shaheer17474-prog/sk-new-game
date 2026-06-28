@@ -1,0 +1,6 @@
+{
+  "name": "Tower Aviator",
+  "description": "An interactive, beautiful, and feature-rich Aviator crash game app featuring high multiplier betting, VIP rewards levels, share-to-earn referral systems, and a fully functional Admin Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
